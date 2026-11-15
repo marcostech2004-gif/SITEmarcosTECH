@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcostechsites.vercel.app/sitemap.xml
